@@ -2,6 +2,8 @@
 #include<cstdlib>
 using namespace std;
 
+int hola=3333333;
+
 string cur_ayuda;
 int existe=-1;
 
