@@ -4,6 +4,7 @@ using namespace std;
 
 string cur_ayuda;
 int existe=-1;
+
 int bande_v=0;
 int n_nota=10;
 int n_foli=1347;
